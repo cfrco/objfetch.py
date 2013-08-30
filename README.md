@@ -87,9 +87,11 @@ Output:
 ### Detail
 #### Functions
  * objfetch.fetch(obj,structure)
+
 #### Classes
  * objfetch.FetchFunction(func)
  * objfetch.FetchRecursive(structure=None)
  * objfetch.FetchCondition(condition,structure=None)
+
 #### Useful Tool
  * objfetch.allvalue (objfetch.FetchFunction)
