@@ -83,3 +83,13 @@ Output:
  'value': 10}
 {'name': 'root', 'parent': None, 'value': 10}
 ```
+
+### Detail
+#### Functions
+ * objfetch.fetch(obj,structure)
+#### Classes
+ * objfetch.FetchFunction(func)
+ * objfetch.FetchRecursive(structure=None)
+ * objfetch.FetchCondition(condition,structure=None)
+#### Useful Tool
+ * objfetch.allvalue (objfetch.FetchFunction)
